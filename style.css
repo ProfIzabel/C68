@@ -3,3 +3,12 @@
     height:500px;
     border: none;
 }
+.viagem_mainDiv {
+    border: 1px solid lightgray;
+}
+.viagem_mainDiv img {
+    width: 100%;
+}
+.viagem_mainDiv h5,.viagem_mainDiv p {
+    margin: 2%;
+}
